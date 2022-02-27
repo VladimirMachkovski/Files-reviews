@@ -1,0 +1,18 @@
+#container{
+  width: 50%;
+  margin: 0 auto;
+}
+.input{
+  width: 70%;
+}
+.button{
+  background-color: rgb(57, 84, 240);
+  color: white;
+}
+.show-json{
+  display: none;
+}
+.button-div{
+  display: flex;
+  justify-content: space-between;
+}
